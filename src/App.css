@@ -1,0 +1,11 @@
+.App {
+  background-image: url("https://wallpapercave.com/wp/wp6360955.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100%;
+}

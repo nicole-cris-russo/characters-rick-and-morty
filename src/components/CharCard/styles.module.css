@@ -1,0 +1,23 @@
+.Picture {
+  width: 100%;
+  height: auto;
+}
+
+.DivPicture {
+  border-radius: 20px;
+  border: 3px solid #00ddff;
+  height: 180px;
+  width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.Name {
+  width: 90%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
